@@ -1,0 +1,15 @@
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\bin\Debug\net6.0\Sonicgame.exe
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\bin\Debug\net6.0\Sonicgame.deps.json
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\bin\Debug\net6.0\Sonicgame.runtimeconfig.json
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\bin\Debug\net6.0\Sonicgame.dll
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\bin\Debug\net6.0\Sonicgame.pdb
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.dll
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\refint\Sonicgame.dll
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.pdb
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\Sonicgame.genruntimeconfig.cache
+C:\Users\emsgard.johan\Programering 2\Sonicgame\Sonicgame\obj\Debug\net6.0\ref\Sonicgame.dll
