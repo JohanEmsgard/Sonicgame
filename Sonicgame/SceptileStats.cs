@@ -1,7 +1,3 @@
-using System;
-
-namespace Sonicgame;
-
 public class SceptileStats
 {
     public string name = "Sceptile";
